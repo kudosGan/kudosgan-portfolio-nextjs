@@ -60,6 +60,9 @@ const Header = () => {
             <NavItem className="port-navbar-item">
               <BsNavLink href="/cv" title="Cv"/>
             </NavItem>
+            <NavItem className="port-navbar-item">
+              <BsNavLink href="/tensorflow" title="Tfprojects"/>
+            </NavItem>
           </Nav>
           <Nav navbar>
             <NavItem className="port-navbar-item">
